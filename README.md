@@ -1,4 +1,4 @@
-- 👋 Hi! I’m David de Paz.
+- 👋 Hi! I’m David de Paz, a person who doesn´t stop learning. I really want to get a job and get into this field, programming and data science.
 - 👀 I’m interested in data science and analytics, programming and machine learning operations.
 - 🌱 I’m currently learning about python and queries SQL.
 - 💞️ I’m looking for a job that allows me to grow professionally and don´t stop improving my knowledge.
