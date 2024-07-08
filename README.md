@@ -1,6 +1,6 @@
-- 👋 Hi! I’m David de Paz, a person who doesn´t stop learning. I really want to get a job and get into this field, programming and data science.
+- 👋 Hi! I’m David de Paz, a person who doesn´t stop learning. I really want to get into big data world.
 - 👀 I’m interested in data science and analytics, programming and machine learning operations.
-- 🌱 I’m currently learning about web development and data visualization.
+- 🌱 I’m currently learning about data visualization in Power BI and SQL.
 - 💞️ I’m looking for a job that allows me to grow professionally and keep me improving my knowledge.
 - 📫 You can contact me via email (david.97.ddp@gmail.com) or phone (+34 635688878).
 
